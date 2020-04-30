@@ -1,0 +1,19 @@
+.input-container,
+h1 {
+  margin: 1rem;
+  text-align: center;
+}
+table {
+  border-spacing: 0rem;
+  border: solid 0.1rem;
+  margin: auto;
+}
+td {
+  width: 1rem;
+  height: 1rem;
+  background: #000000;
+  border: solid 0.05rem #3c3c3c;
+}
+td.alive {
+  background: #ffa500;
+}
